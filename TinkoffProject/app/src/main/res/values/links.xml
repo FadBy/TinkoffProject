@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="latest">https://developerslife.ru/latest/%d?json=true</string>
+    <string name="top">https://developerslife.ru/top/%d?json=true</string>
+    <string name="random">https://developerslife.ru/random?json=true</string>
+</resources>
